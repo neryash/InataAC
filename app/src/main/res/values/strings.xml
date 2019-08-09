@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InataAC</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">Nyj3BeMsrBGVgagKswFLz1U38Bfo7k0SfoqjoZwi</string>
+    <string name="back4app_client_key">FmGqfxT9O12MJTkwVdtTja0oRDZl7lVMS6BXuZUV</string>
+</resources>
